@@ -19,19 +19,19 @@ I look forward to hearing from you!
 
 <br>
 
-<p  align="center">
+<p align="center">
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25"/>
   </p>
   
-<p  align="center">
+<p align="center">
 
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" height="25"/>  
   &nbsp;
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25"/>
   </p>
   
-  <p  align="center">
+  <p align="center">
 
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="25"/>
   &nbsp;
@@ -40,7 +40,7 @@ I look forward to hearing from you!
 <img src="https://img.shields.io/badge/redis-CC0000.svg?&style=for-the-badge&logo=redis&logoColor=white" height="25"/>  
  </p>
  
- <p  align="center">
+ <p align="center">
 
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25">
   &nbsp;
