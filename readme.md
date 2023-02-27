@@ -73,7 +73,7 @@ I look forward to hearing from you :)!
 <div align="center">
   <a href="mailto:josh@gable.tech" >
     <img align="left" width="26px" src="https://www.freeiconspng.com/thumbs/email-icon/email-icon--clipart-best-22.png" />
-  </a> &nbsp;
+  </a> 
   
   <a href=
   "https://www.linkedin.com/in/joshuagable/" 
@@ -81,13 +81,13 @@ I look forward to hearing from you :)!
     <img align="center" 
     width="24px" 
     src="https://icons-for-free.com/iconfiles/png/512/linkedin+original+icon-1320194901310004124.png"/>
-  </a> &nbsp;
+  </a> 
   
   <a href="https://github.com/jgable01" target="_blank">
     <img align="right" 
     width="26px" 
     src=
     "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"/>
-  </a> &nbsp;
+  </a> 
 </div>
 
