@@ -1,0 +1,32 @@
+Intro to Git
+
+    - Distributed version control system
+    - Helps us to track changes, update and maintain projects
+    - Knows the history of your projects
+
+  Why use Git?
+
+    - Store revisions in a project history in just one directory
+    - Rewind to any revision in the project we want to
+    - Work on new features without messing up production model
+    - Easily collaborate with other developers
+
+  Git is local
+  GitHub - based on Git - is online
+
+User config
+
+> git config --global user.name 'Your name'
+> git config --global user.email <email>
+> git config --global init.defaultBranch main
+
+  Repository
+    Container for a project we want to track with Git
+  
+
+  > git init 
+    Create a git repo in a specified directory -> .git
+
+  Comit
+    Your project's 'save point'. Captures a snapshot of the projects currently staged
+    changes

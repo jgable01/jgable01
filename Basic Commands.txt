@@ -1,0 +1,31 @@
+Basic commands
+
+  > git config --list
+    List config settings
+  
+  > git init
+    Create a new Git repo
+
+  > git status
+    Show the current branch and new/modified files in your working directory
+
+  > git add <file>
+  > git add . (all files)
+  
+  > git commit -m 'a descriptive message'
+
+
+  > git log 
+    Show the commit history
+
+  > git log --oneline
+    Shows commit history in one line
+
+  > git diff --color-worlds <file> (simple version)
+    Track the differences between the changes made on a file
+
+  > git show <commit-hash> 
+    Show files changed in a commit (+ content)
+
+  > git show <commit-hash> --name-only
+    Show files changed in a commit (- content)
