@@ -91,3 +91,13 @@ I look forward to hearing from you!
   </a> 
 </div>
 
+### My stats
+
+<a href="https://github.com/jgable01">
+  <img height="205px" align="center" src="https://github-readme-stats.vercel.app/api?username=jgable01&theme=vue&show_icons=true" alt="My GitHub stats" />
+</a>
+<a href="https://github.com/mrspecht">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgable01&theme=vue&hide=Ruby&show_icons=true&langs_count=3" alt="My 
+  GitHub stats"/>
+</a>
+
