@@ -72,7 +72,7 @@ I look forward to hearing from you :)!
 
 <div align="center">
   <a href="mailto:josh@gable.tech" >
-    <img align="left" width="26px" src="https://www.freeiconspng.com/thumbs/email-icon/email-icon--clipart-best-22.png" />
+    <img align="center" width="26px" src="https://www.freeiconspng.com/thumbs/email-icon/email-icon--clipart-best-22.png" />
   </a> 
   
   <a href=
@@ -84,7 +84,7 @@ I look forward to hearing from you :)!
   </a> 
   
   <a href="https://github.com/jgable01" target="_blank">
-    <img align="right" 
+    <img align="center" 
     width="26px" 
     src=
     "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"/>
