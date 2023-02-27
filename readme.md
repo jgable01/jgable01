@@ -97,7 +97,7 @@ I look forward to hearing from you!
   <img height="205px" align="center" src="https://github-readme-stats.vercel.app/api?username=jgable01&theme=radical&show_icons=true" alt="My GitHub stats" />
 </a>
 <a href="https://github.com/mrspecht">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgable01&theme=ocean-dark&hide=Ruby&show_icons=true&langs_count=3" alt="My 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgable01&theme=ocean-dark&hide=Ruby&show_icons=true&langs_count=1" alt="My 
   GitHub stats"/>
 </a>
 
