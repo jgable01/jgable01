@@ -70,7 +70,7 @@ I look forward to hearing from you :)!
 
 ##  Connect with me via my socials down below
 
-<p align="center">
+<p align="left">
   <a href="mailto:josh@gable.tech" >
     <img align="left" width="26px" src="https://www.freeiconspng.com/thumbs/email-icon/email-icon--clipart-best-22.png" />
   </a> &nbsp;
