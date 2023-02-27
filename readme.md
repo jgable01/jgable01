@@ -13,7 +13,7 @@
 - :sunglasses: My quote is **_“Everybody is a genius. But if you judge a fish by its ability to climb a tree, it will live its whole life believing that it is stupid.” — Albert Einstein_**
 
 My current programming experience includes Java, JavaScript, C#, HTML, CSS, react, mysql and php in addition to basic knowledge of a few others. Want to know more? Get in touch via my socials linked below.
-I look forward to hearing from you :)!
+I look forward to hearing from you!
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Some Languages and Tools
 
