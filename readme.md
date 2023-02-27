@@ -76,9 +76,11 @@ I look forward to hearing from you :)!
   </a> &nbsp;&nbsp;
   
   <a href=
-  "https://icons-for-free.com/iconfiles/png/512/linkedin+original+icon-1320194901310004124.png" 
+  "https://www.linkedin.com/in/joshuagable/" 
   target="_blank">
-    <img align="center" width="24px" src="https://www.linkedin.com/in/joshuagable/"/>
+    <img align="center" 
+    width="24px" 
+    src="https://icons-for-free.com/iconfiles/png/512/linkedin+original+icon-1320194901310004124.png"/>
   </a> &nbsp;&nbsp;
   
   <a href="https://github.com/jgable01" target="_blank">
@@ -87,6 +89,5 @@ I look forward to hearing from you :)!
     src=
     "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"/>
   </a> &nbsp;&nbsp;
-  
-<p>
+</p>
 
