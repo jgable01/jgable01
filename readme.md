@@ -7,7 +7,7 @@
 - :credit_card: My name is **Josh Gable** <img src="./assets/coding.gif" width="400" align="right"/>
 - :school: I'm a current student at **Manitoba Institute of Trades and Technology**
 - :books: I'm currently enrolled in **Software Developer**
-- :earth_na: I currently live in North America **Winnipeg, Manitoba, Canada**
+- :earth_americas: I currently live in North America **Winnipeg, Manitoba, Canada**
 - :sweat_smile: I'm currently an intermediate skilled programmer 
 - :monocle_face: I'm interested in coding, gaming & outdoor activities
 - :sunglasses: My quote is **_“Everybody is a genius. But if you judge a fish by its ability to climb a tree, it will live its whole life believing that it is stupid.” — Albert Einstein_**
