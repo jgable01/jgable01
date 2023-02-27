@@ -89,5 +89,5 @@ I look forward to hearing from you :)!
     src=
     "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"/>
   </a> &nbsp;
-</p>
+<p>
 
