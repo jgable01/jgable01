@@ -10,7 +10,6 @@
 - :earth_americas: I currently live in North America **Winnipeg, Manitoba, Canada**
 - :sweat_smile: I'm currently an intermediate skilled programmer 
 - :monocle_face: I'm interested in coding, gaming & outdoor activities
-- :sunglasses: My quote is **_“Everybody is a genius. But if you judge a fish by its ability to climb a tree, it will live its whole life believing that it is stupid.” — Albert Einstein_**
 
 My current programming experience includes Java, JavaScript, C#, HTML, CSS, react, mysql and php in addition to basic knowledge of a few others. Want to know more? Get in touch via my socials linked below.
 I look forward to hearing from you!
