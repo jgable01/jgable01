@@ -75,12 +75,3 @@ I look forward to hearing from you!
     <img align="center" width="26px" src="https://www.freeiconspng.com/thumbs/email-icon/email-icon--clipart-best-22.png" />
   </a> 
   
-  <a href=
-  "https://www.linkedin.com/in/joshuagable/" 
-  target="_blank">
-    <img align="center" 
-    width="24px" 
-    src="https://icons-for-free.com/iconfiles/png/512/linkedin+original+icon-1320194901310004124.png"/>
-  </a> 
-  
-  <a href="h
