@@ -4,7 +4,7 @@
 
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"></img> About Me
 
-- :credit_card: My name is **Josh Gable** <img src="./assets/coding.gif" width="400" align="right"/>
+- :credit_card: My name is **Josh** <img src="./assets/coding.gif" width="400" align="right"/>
 - :briefcase: I'm currently working as a **Programmer Analyst at Access Credit Union**
 - :school: I'm a graduate from **Manitoba Institute of Trades and Technology**
 - :earth_americas: I currently live in North America **Winnipeg, Manitoba, Canada**
