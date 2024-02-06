@@ -5,8 +5,8 @@
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"></img> About Me
 
 - :credit_card: My name is **Josh Gable** <img src="./assets/coding.gif" width="400" align="right"/>
-- :school: I'm a current student at **Manitoba Institute of Trades and Technology**
-- :books: I'm currently enrolled in **Software Developer**
+- :briefcase: I'm currently working as a **Programmer Analyst at Access Credit Union**
+- :school: I'm a graduate from **Manitoba Institute of Trades and Technology**
 - :earth_americas: I currently live in North America **Winnipeg, Manitoba, Canada**
 - :sweat_smile: I'm currently an intermediate skilled programmer 
 - :monocle_face: I'm interested in coding, gaming & outdoor activities
@@ -27,42 +27,42 @@ I look forward to hearing from you!
 <p align="center">
 
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" height="25"/>  
-  &nbsp;
+   
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25"/>
   </p>
   
   <p align="center">
 
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="25"/>
-  &nbsp;
+   
 <img src="	https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" height="25"/>
-  &nbsp;
+   
 <img src="https://img.shields.io/badge/redis-CC0000.svg?&style=for-the-badge&logo=redis&logoColor=white" height="25"/>  
  </p>
  
  <p align="center">
 
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25">
-  &nbsp;
+   
 
 <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white" height="25">
-&nbsp;
+ 
   
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" height="25">
-&nbsp;
+ 
   
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" height="25">
 </p>
 <p align="center">
 
   <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" height="25">
-&nbsp;
+ 
     <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" height="25">
-&nbsp;
+ 
     <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" height="25">
-&nbsp;
+ 
   <img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" height="25">
-&nbsp;
+ 
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" height="25">
 
 </p>
@@ -83,17 +83,4 @@ I look forward to hearing from you!
     src="https://icons-for-free.com/iconfiles/png/512/linkedin+original+icon-1320194901310004124.png"/>
   </a> 
   
-  <a href="https://github.com/jgable01" target="_blank">
-    <img align="center" 
-    width="26px" 
-    src=
-    "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"/>
-  </a> 
-</div>
-
-### My stats
-
-<a href="https://github.com/jgable01">
-  <img height="205px" align="center" src="https://github-readme-stats.vercel.app/api?username=jgable01&theme=radical&show_icons=true" alt="My GitHub stats" />
-</a>
-
+  <a href="h
