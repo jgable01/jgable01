@@ -8,10 +8,9 @@
 - :briefcase: I'm currently working as a **Programmer Analyst at Access Credit Union**
 - :school: I'm a graduate from **Manitoba Institute of Trades and Technology**
 - :earth_americas: I currently live in North America **Winnipeg, Manitoba, Canada**
-- :sweat_smile: I'm currently an intermediate skilled programmer 
 - :monocle_face: I'm interested in coding, gaming & outdoor activities
 
-My current programming experience includes Java, JavaScript, C#, HTML, CSS, react, mysql and php in addition to basic knowledge of a few others. Want to know more? Get in touch via my socials linked below.
+My current programming experience includes Java, JavaScript, C#, HTML, CSS, react, mysql, Laravel, Docker, Kubernetes and php in addition to basic knowledge of a few others. Want to know more? Get in touch via my socials linked below.
 I look forward to hearing from you!
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Some Languages and Tools
